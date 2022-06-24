@@ -1,0 +1,10 @@
+
+NAME : aaryan
+CITY : meerut
+AGE : 20
+DISEASE : Cardiologist
+DISEASE : Gynecologist
+NAME : akul
+CITY : meerut
+AGE : 2
+DISEASE : Gynecologist
